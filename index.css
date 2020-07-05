@@ -1,0 +1,251 @@
+@media screen and (max-width: 800px) {
+    .container-responsive{
+    border:none ;
+    margin-left:5px !important;
+    padding:2px;
+    transform: translate(-3.5%, 0%);
+        width: 300px !important;
+      height: 450px !important;
+      position: left;
+      outline: none;
+      margin-top: 0px !important;
+
+}
+.w3-bar .w3-black{
+         outline: none;
+        width:100% !important;
+      height: 20px !important;
+      padding: 0px;
+      color:blue !important;
+
+
+}
+.navbar{
+    transform: translate(-1%, 1083%);
+    width:100% !important;
+    height:40px;
+    float:left !important;
+}
+.w3-bar{
+    transform: translate(-2%, -10%);
+    width:100% !important;
+}
+.navbar .w3-bar .w3-bar-item {
+    color:black !important;
+    padding: 1px !important;
+    width:auto !important;
+    font-size: 12px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+
+}
+.navbar .w3-btn, .w3-btn-block, .w3-button {
+    color:black !important;
+    display: inline-block;
+    padding: 1px !important;
+    width:auto !important;
+    font-size: 12px;
+    text-align: center;
+    cursor: pointer;
+
+}
+.icon{
+    transform: translate(-50%, -10%);
+    font-size:30px !important;
+
+}
+input{
+    width:100% !important;
+    height:30px !important;
+      transform: translate(-10%, -20%);
+      text-align: center;
+      font-size: 15px;
+
+}
+
+
+.header{
+    transform: translate(-92%, 0%);
+    margin:0px !important;
+    width:-10% !important;
+}
+.upper-part{
+    transform: translate(109%,0%);
+    width:10%;
+    margin-left: 60px !important;
+    font-size: 12px;
+
+}
+.follow{
+    transform: translate(-250%,1%);
+    font-size: 15px;
+}
+hr{
+width:55.3% !important;
+margin:0%;
+transform: translate(160%,10%);
+}
+.logo{
+    width:8% !important;
+    height: 20px;
+    transform: translate(50%, 10%);
+    top:2px !important;
+    margin-left:1px !important;
+}
+.cover{
+    transform: translate(10%, -45%);
+    width:50% !important;
+    height:200px !important;
+}
+.covid{
+    transform: translate(8%, -45%);
+    font-size: 14px;
+    width:50% !important;
+
+}
+.footer hr{
+    width:55% !important;
+margin:0%;
+ transform: translate(-4.5%,0%);
+}
+.footer{
+    transform: translate(92%, -130%);
+    width:100% !important;
+}
+.footer-item{
+    width:100% !important;
+    transform: translate(92%, -150%);
+}
+}
+element.style {
+    display: block;
+}
+.navbar{
+    float:right;
+    left:200px;
+
+}
+.icon{
+        background-color: inherit;
+    color: white;
+    width: auto;
+    font-size: 24px;
+    padding:1px;
+    float:left;
+    border: none;
+    outline: none;
+    margin:15px;
+    display: block;
+
+}
+.w3-black{
+    color: #fff!important;
+    background: #283e4a;
+    border-top: none;
+    box-shadow: none;
+    height: 52px;
+    margin-left: 0px;
+}
+.w3-bar {
+    width: 100%;
+    overflow: hidden;
+
+}
+
+.w3-bar .w3-button {
+    background-color: inherit;
+    color: inherit;
+    white-space: normal;
+}
+.w3-bar .w3-bar-item {
+    background-color: inherit;
+    color: white;
+    width: auto;
+    font-size: 15px;
+    padding:1px;
+    float:left;
+    border: none;
+    outline: none;
+    margin:15px;
+    display: block;
+    
+}
+.w3-btn, .w3-btn-block, .w3-button {
+    border: none;
+    display: inline-block;
+    outline: 0;
+    padding: 0px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none!important;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+.container-responsive{
+    border-style: groove;
+    margin-top:10px;
+    width:580px;
+    height:580px;
+    margin-left: 480px;
+    box-shadow: grey;
+}
+.header{
+    width:570px;
+    height:62px;
+    left:500px;
+    top:100px;
+}
+.upper-part{
+    width:480px;
+    height:60px;
+    margin-left:80px;
+    margin-top:25px;
+}
+.follow{
+    float:right;
+    color:#006097;
+    font-size: 20px;
+    text-decoration: none!important;
+    font-weight:600;
+}
+
+.cover{
+    width:552px;
+    height:289px;
+    position:absolute;
+    text-align: center;
+    left:500px;
+    top:230px;
+}
+.logo{
+    width:48px;
+    height:48px;
+    position: absolute;
+    left:500px;
+    top:100px;
+}
+.covid{
+    width:552px;
+    height:289px;
+    position:absolute;
+    text-align: center;
+    left:500px;
+    top:180px;
+
+}
+.footer{
+        width:560px;
+    height:60px;
+    margin-left:10px;
+    margin-top:380px;
+
+}
+.footer-item{
+    color:grey;
+    padding:3px;
+    text-decoration: none!important;
+}
